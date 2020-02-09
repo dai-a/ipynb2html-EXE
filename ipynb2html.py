@@ -38,7 +38,6 @@ if '__file__' in locals():
 else:
     print('__file__', 'is not defined')
 
-print('os.getwd()',os.getcwd())
 
 
 # # INPUT_PATH
